@@ -1,0 +1,15 @@
+{
+    "name": "sklee/remind",
+    "autoload": {
+        "psr-4": {
+            "Sklee\\R\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sklee",
+            "email": "sklee385@gmail.com"
+        }
+    ],
+    "require": {}
+}
